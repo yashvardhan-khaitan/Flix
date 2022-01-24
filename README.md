@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF on personal iPhone
 
-<img src="https://i.imgur.com/dVh9OKG.gif" width=250><br>
+<img src="https://i.imgur.com/2SW0cAD.gif" width=250><br>
 
 ### Notes
 One of the challenges that I ran into while building this application was implementing Cocoapods into my application. Turns out, I installed Cocoapods 2 times, that is the reason why I was getting the profile already exists error.
