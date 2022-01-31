@@ -14,7 +14,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/PE2kU5F.gif" width=250><br>
+<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/H8aiYfsn.gif" width=250><br>
 
 ### Notes
 One challenge that I ran into was not linking my View Controllers with the new Cocoa Touch class files.
